@@ -8,7 +8,6 @@ Soy estudiante de ingenieria y me gusta mucho todo lo que este relacionado con l
 He participado con diferentes equipos entre ellos,
 d3fault
 IMF
-Mayas
 y otros más.
 
 Pondre los links que me han servido para adentrarme mas en este tema
