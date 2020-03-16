@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "UTCTF [basics]Crypto"
+categories: crypto
 ---
 ## UTCTF 
 
@@ -84,9 +86,9 @@ Después lo actualizare con imágenes para que se vea mucho mejor :)
 
 Recomendaciones:
 
--Cuando es cifrado césar lo mejor es buscar una herramienta que te arroje todos los resultados posibles (bruteforce), dcode.fr tiene una muy buena.
+- Cuando es cifrado césar lo mejor es buscar una herramienta que te arroje todos los resultados posibles (bruteforce), dcode.fr tiene una muy buena.
 
--Este es un ejercicio muy sencillo, para poder resolverlo es muy importante checar la historia de la criptografía y entender cada uno de los cifradores antiguos, son muy sencillos y nada complejos. Puedes hacer tu propio script para que se haga esto de una manera màs rapida, pero en estos casos yo creo que es mejor y más rapido hacer uso de las herramientas online que ya existen.
+- Este es un ejercicio muy sencillo, para poder resolverlo es muy importante checar la historia de la criptografía y entender cada uno de los cifradores antiguos, son muy sencillos y nada complejos. Puedes hacer tu propio script para que se haga esto de una manera màs rapida, pero en estos casos yo creo que es mejor y más rapido hacer uso de las herramientas online que ya existen.
 
 
 [binario]:{{site.baseurl}}/images/utctf/binarioAscc.png
